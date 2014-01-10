@@ -1,0 +1,8 @@
+Omnipad is a program written in java.
+dependencies, most up to date java (at least 7)
+to run, in windows or mac, double click, it should auto run
+in linux/BSD or if the above fails, run: "java -jar OmniPad.jar" from the command line (as always, make sure you are in the right directory).
+
+omnipad is a geometry sketchpad, it isn't super fancy but if there are features you would like to see, let me know.
+
+contact me with any questions! linuxbash8@gmail.com
