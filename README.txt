@@ -1,7 +1,11 @@
 author: Alec S
 e-mail: linuxbash8@gmail.com
-This is a git repo for my java projects. They are in .jar format. 
-run them with "java -jar foo.jar"
+This is a git repo for my java omnipad project. 
+run this with 
+$ java -jar omnipad.jar
+or
+double click on the icon from any file viewer if your are using macOSX or
+windows
 
 contact me with any other questions or source code requests (I'm happy to provide)
 
