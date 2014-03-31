@@ -5,7 +5,7 @@ run this with
 $ java -jar omnipad.jar
 or
 double click on the icon from any file viewer if your are using macOSX or
-windows
+Windows
 
 contact me with any other questions or source code requests (I'm happy to provide)
 
