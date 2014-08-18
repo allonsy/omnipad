@@ -7,5 +7,7 @@ or
 double click on the icon from any file viewer if your are using macOSX or
 Windows
 
+It is a basic geometry notebook type program.
+
 contact me with any other questions or source code requests (I'm happy to provide)
 
