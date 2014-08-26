@@ -1,5 +1,8 @@
 author: Alec S
 e-mail: linuxbash8@gmail.com
+
+note EasyReader and EasyWriter are products of University of Washington
+
 This is a git repo for my java omnipad project. 
 run this with 
 $ java -jar omnipad.jar
